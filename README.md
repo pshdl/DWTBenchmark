@@ -7,7 +7,7 @@ On my local machine the following times have been observed, after some warm-up:
 
 * clang -O3 8,8s
 * gcc -O3 14,8s
-* java 28s
+* java 28s (you can download the interpreter package from [here](http://maven.pshdl.org/org/pshdl/interpreter/0.1.99/interpreter-0.1.99.jar))
 * [go](golang.org) 30,8s
 * [dart](http://dartlang.org) 33,8s
 
